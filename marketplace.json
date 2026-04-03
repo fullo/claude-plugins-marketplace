@@ -13,12 +13,11 @@
       }
     },
     {
-      "name": "book-writing-assistant",
-      "description": "Assistente editoriale per la serie 'the Right Way': TOV, grammatica italiana, formato Markua/LeanPub, coerenza narrativa multi-libro",
+      "name": "writing-assistant",
+      "description": "Editorial assistant for book writing — Italian TOV/style checking, Markua/LeanPub formatting, multi-book coherence validation, and narrative consistency.",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/fullo/claude-cowork-book-plugin.git",
-        "path": "src"
+        "source": "github",
+        "repo": "fullo/claude-writing-assistant-skill"
       }
     },
     {
