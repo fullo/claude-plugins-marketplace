@@ -1,0 +1,33 @@
+{
+  "name": "fullo-plugins",
+  "owner": {
+    "name": "Francesco Fullone — Daruma Consulting"
+  },
+  "plugins": [
+    {
+      "name": "sustainable-manager",
+      "description": "Sustainability Manager - ESG analysis, LCA studies, CSRD/ESRS compliance, greenwashing detection, and sustainability reporting with a science-based approach",
+      "source": {
+        "source": "github",
+        "repo": "fullo/sustainable-manager"
+      }
+    },
+    {
+      "name": "book-writing-assistant",
+      "description": "Assistente editoriale per la serie 'the Right Way': TOV, grammatica italiana, formato Markua/LeanPub, coerenza narrativa multi-libro",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/fullo/claude-cowork-book-plugin.git",
+        "path": "src"
+      }
+    },
+    {
+      "name": "sustainable-code-skill-setup",
+      "description": "Sustainable software development - SCI carbon measurement, W3C WSG 1.0 compliance, accessibility auditing, and green coding practices",
+      "source": {
+        "source": "github",
+        "repo": "fullo/sustainable-code-skill-setup"
+      }
+    }
+  ]
+}
