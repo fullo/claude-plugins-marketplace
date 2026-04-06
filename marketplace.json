@@ -27,6 +27,14 @@
         "source": "github",
         "repo": "fullo/sustainable-code-skill-setup"
       }
+    },
+    {
+      "name": "adversarial-verify",
+      "description": "Adversarial code verification — Chain-of-Verification (CoV) methodology for rigorous code review, skeptical claim decomposition, and evidence-based bug detection",
+      "source": {
+        "source": "github",
+        "repo": "fullo/claude-adversarial-skill"
+      }
     }
   ]
 }
