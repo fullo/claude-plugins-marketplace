@@ -8,7 +8,7 @@
       "name": "sustainable-manager",
       "description": "Sustainability Manager - ESG analysis, LCA studies, CSRD/ESRS compliance, greenwashing detection, and sustainability reporting with a science-based approach",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/fullo/sustainable-manager.git"
       }
     },
@@ -16,7 +16,7 @@
       "name": "writing-assistant",
       "description": "Editorial assistant for book writing — Italian TOV/style checking, Markua/LeanPub formatting, multi-book coherence validation, and narrative consistency.",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/fullo/claude-writing-assistant-skill.git"
       }
     },
@@ -24,7 +24,7 @@
       "name": "sustainable-code-skill-setup",
       "description": "Sustainable software development - SCI carbon measurement, W3C WSG 1.0 compliance, accessibility auditing, and green coding practices",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/fullo/sustainable-code-skill-setup.git"
       }
     },
@@ -32,7 +32,7 @@
       "name": "adversarial-verify",
       "description": "Adversarial code verification — Chain-of-Verification (CoV) methodology for rigorous code review, skeptical claim decomposition, and evidence-based bug detection",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/fullo/claude-adversarial-skill.git"
       }
     }
