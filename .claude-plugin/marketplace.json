@@ -35,6 +35,14 @@
         "source": "url",
         "url": "https://github.com/fullo/claude-adversarial-skill.git"
       }
+    },
+    {
+      "name": "adversarial-thinking",
+      "description": "Adversarial thinking companion — Socratic method, cognitive forcing, desirable difficulties. Makes thinking harder, not easier.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fullo/claude-adversarial-thinking.git"
+      }
     }
   ]
 }
