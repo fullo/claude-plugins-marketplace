@@ -11,7 +11,19 @@ Marketplace di plugin per Claude Code di Francesco Fullone / Daruma Consulting.
 | **sustainable-code-skill-setup** | Sviluppo software sostenibile - misurazione SCI, compliance W3C WSG 1.0, audit accessibilita, green coding practices |
 | **adversarial-verify** | Verifica adversarial del codice — metodologia Chain-of-Verification (CoV) per code review rigorosa, decomposizione scettica dei claim, e rilevamento bug basato su evidenze |
 
-## Installazione
+## Aggiungere il marketplace
+
+```bash
+claude plugin marketplace add fullo/claude-plugins-marketplace
+```
+
+oppure dall'interno di Claude Code:
+
+```
+/plugin marketplace add fullo/claude-plugins-marketplace
+```
+
+## Installazione plugin
 
 Per installare un plugin da questo marketplace:
 
@@ -19,8 +31,14 @@ Per installare un plugin da questo marketplace:
 claude plugin install <plugin-name>@fullo-plugins
 ```
 
-## Aggiungere il marketplace
+oppure dall'interno di Claude Code:
+
+```
+/plugin install <plugin-name>@fullo-plugins
+```
+
+## Aggiornare il marketplace
 
 ```bash
-claude marketplace add fullo-plugins https://github.com/fullo/claude-plugins-marketplace
+claude plugin marketplace update fullo-plugins
 ```
