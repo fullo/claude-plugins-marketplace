@@ -11,6 +11,7 @@ Marketplace di plugin per Claude Code di Francesco Fullone / Daruma Consulting.
 | **sustainable-code-skill-setup** | Sviluppo software sostenibile - misurazione SCI, compliance W3C WSG 1.0, audit accessibilita, green coding practices |
 | **adversarial-verify** | Verifica adversarial del codice — metodologia Chain-of-Verification (CoV) per code review rigorosa, decomposizione scettica dei claim, e rilevamento bug basato su evidenze |
 | **adversarial-thinking** | Compagno di pensiero adversarial — metodo socratico, cognitive forcing, desirable difficulties. Rende il pensiero piu' difficile, non piu' facile. |
+| **thinking-habit** | Profilatore cognitivo — scopre come pensi attraverso 5 dimensioni (canale, strategia, direzione, medium, logica), traduce i prompt nel tuo stile, e media la comunicazione tra profili diversi. |
 
 ## Aggiungere il marketplace
 
