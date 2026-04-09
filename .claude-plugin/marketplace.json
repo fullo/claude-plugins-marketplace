@@ -43,6 +43,14 @@
         "source": "url",
         "url": "https://github.com/fullo/claude-adversarial-thinking.git"
       }
+    },
+    {
+      "name": "thinking-habit",
+      "description": "Cognitive thinking profiler — discovers how you think across 5 dimensions (channel, strategy, direction, medium, logic), translates prompts to match your style, and bridges communication between different cognitive profiles.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fullo/claude-thinking-habit.git"
+      }
     }
   ]
 }
