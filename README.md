@@ -39,6 +39,25 @@ oppure dall'interno di Claude Code:
 /plugin install <plugin-name>@fullo-plugins
 ```
 
+## Aggiornare i plugin
+
+Per aggiornare un singolo plugin all'ultima versione:
+
+```bash
+claude plugin update <plugin-name>@fullo-plugins
+```
+
+Per aggiornare tutti i plugin installati:
+
+```bash
+claude plugin update writing-assistant@fullo-plugins
+claude plugin update adversarial-verify@fullo-plugins
+claude plugin update sustainable-manager@fullo-plugins
+claude plugin update sustainable-code-skill-setup@fullo-plugins
+```
+
+> **Nota:** il sistema plugin usa gli hash dei commit git come versione. Non c'e notifica automatica di nuove versioni — esegui i comandi sopra periodicamente per restare aggiornato. Dopo ogni aggiornamento e necessario riavviare Claude Code.
+
 ## Aggiornare il marketplace
 
 ```bash
