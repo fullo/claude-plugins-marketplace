@@ -12,6 +12,7 @@ Marketplace di plugin per Claude Code di Francesco Fullone / Daruma Consulting.
 | **adversarial-verify** | Verifica adversarial del codice — metodologia Chain-of-Verification (CoV) per code review rigorosa, decomposizione scettica dei claim, e rilevamento bug basato su evidenze |
 | **adversarial-thinking** | Compagno di pensiero adversarial — metodo socratico, cognitive forcing, desirable difficulties. Rende il pensiero piu' difficile, non piu' facile. |
 | **thinking-habit** | Profilatore cognitivo — scopre come pensi attraverso 5 dimensioni (canale, strategia, direzione, medium, logica), traduce i prompt nel tuo stile, e media la comunicazione tra profili diversi. |
+| **toprank** | Analisi SEO, gestione Google Ads, keyword research, ottimizzazione contenuti e schema markup con workflow repo-aware per Claude Code |
 
 ## Aggiungere il marketplace
 
