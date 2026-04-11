@@ -51,6 +51,14 @@
         "source": "url",
         "url": "https://github.com/fullo/claude-thinking-habit.git"
       }
+    },
+    {
+      "name": "toprank",
+      "description": "SEO analysis, Google Ads management, keyword research, content optimization, and schema markup tools powered by Google Search Console and Google Ads APIs.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nowork-studio/toprank.git"
+      }
     }
   ]
 }
